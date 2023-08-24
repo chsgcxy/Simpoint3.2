@@ -1,0 +1,6 @@
+output/*
+analysiscode/*.d
+analysiscode/*.o
+analysiscode/simpoint
+bin/*
+.vscode
